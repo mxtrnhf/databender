@@ -1,4 +1,5 @@
 # Databender
+[Disclaimer: this project is entirely vibecoded and lightly tested. As I continue working on it I try to get better understanding of the code underneath]
 
 Databending for images, Audacity-style. The image's pixel data is treated as an audio
 stream: pick a range on the waveform, apply an effect (echo, phaser, bitcrusher, …) and
