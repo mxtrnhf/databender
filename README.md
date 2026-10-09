@@ -5,6 +5,7 @@ Databending for images, Audacity-style. The image's pixel data is treated as an 
 stream: pick a range on the waveform, apply an effect (echo, phaser, bitcrusher, …) and
 watch the image change live.
 
+![Databender main window](screnshot_1.png)
 ## Run
 
 Requires **Python 3.10+** (with `venv`/`pip`) and a desktop session.
